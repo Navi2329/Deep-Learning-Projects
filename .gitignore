@@ -3,3 +3,9 @@ pytorch/belt/belt_data.pkl
 pytorch/belt/runs/
 pytorch/belt/images
 pytorch/belt/belt_data.csv
+pytorch/color/bags_images
+pytorch/color/tops_images
+pytorch/color/pants_images
+pytorch/color/color_bags.csv
+pytorch/color/color_pants.csv
+pytorch/color/color_tops.csv
