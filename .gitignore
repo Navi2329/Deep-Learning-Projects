@@ -12,3 +12,4 @@ pytorch/color/color_tops.csv
 pytorch/color/images/
 pytorch/color/mlruns/
 pytorch/color/runs/
+pytorch/color/model1.pt
