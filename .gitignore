@@ -12,3 +12,7 @@ pytorch/color/color_tops.csv
 pytorch/color/images/
 pytorch/color/mlruns/
 pytorch/color/runs/
+pytorch/color/test_images/
+pytorch/color/test_data.csv
+pytorch/color/test_data.pkl
+pytorch/color/test_data1.pkl
